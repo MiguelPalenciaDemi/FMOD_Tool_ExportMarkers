@@ -19,8 +19,8 @@ You must place this script in the following path:
 
 To use it, in the menu above, in the **Scripts** tab it will appear with the name **Export Markers**
 
-![Marker Timeline](images/MarkersTimeline.jpg)
+![Marker Timeline](images/MarkersTimeline.JPG)
 
-![Tool Dialog](images/SavePath.jpg)
+![Tool Dialog](images/SavePath.JPG)
 
-![Output](images/Output.jpg)
+![Output](images/Output.JPG)

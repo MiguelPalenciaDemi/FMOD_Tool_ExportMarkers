@@ -16,3 +16,11 @@ Intended for developers working with music games or event synchronization, and w
 
 You must place this script in the following path:
 %LOCALAPPDATA%\FMOD Studio\Scripts
+
+To use it, in the menu above, in the **Scripts** tab it will appear with the name **Export Markers**
+
+![Marker Timeline](images/MarkersTimeline.jpg)
+
+![Tool Dialog](images/SavePath.jpg)
+
+![Output](images/Output.jpg)

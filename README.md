@@ -13,5 +13,6 @@ Intended for developers working with music games or event synchronization, and w
 
 ### 🛠️ Tool Setup
 **For now it has only been tested on Windows.** 
+
 You must place this script in the following path:
 %LOCALAPPDATA%\FMOD Studio\Scripts

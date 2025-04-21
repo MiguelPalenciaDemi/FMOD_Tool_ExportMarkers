@@ -1,14 +1,17 @@
 ## 🎵 FMOD Marker Export Tool
 
-Una pequeña herramienta hecha con el sistema de scripting de **FMOD Studio** que permite **exportar los marcadores (timeline markers) de un evento** a un archivo **JSON estructurado y legible**.
+A small tool made with the **FMOD Studio** scripting system that allows to **export the timeline markers of an event** to a structured and readable **JSON file**.
 
-Pensada para desarrolladores que trabajan con juegos musicales o sincronización de eventos, y que necesitan acceder a la información de los marcadores **antes del runtime**, por ejemplo para generar notas en un juego de ritmo.
+Intended for developers working with music games or event synchronization, and who need to access the marker information **before runtime**, for example to generate notes in a rhythm game.
 
-### ✨ Características
+### ✨ Features
 
-- Selección del evento desde la interfaz de usuario.
-- Elección del path de guardado mediante un diálogo.
-- Exportación del JSON con estructura clara (`event`, `markers`).
-- Totalmente integrada dentro del editor de FMOD Studio (no necesita herramientas externas).
+- Selection of the event from the user interface.
+- Choice of the saving path through a dialog.
+- JSON export with clear structure (`event`, `markers`).
+- Fully integrated within FMOD Studio editor (no external tools required).
 
-
+### 🛠️ Tool Setup
+**For now it has only been tested on Windows.** 
+You must place this script in the following path:
+%LOCALAPPDATA%\FMOD Studio\Scripts
